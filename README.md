@@ -6,4 +6,5 @@ Name-Ananya Mohpal
 City-Dhangadhi
 <br>
 Education-+2
+<br>
 country-Nepal
